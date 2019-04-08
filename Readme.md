@@ -2,7 +2,7 @@
 
 Welcome! I created a simple video playlist on how to use Git & Github.com [here](https://www.youtube.com/playlist?list=PLPXsMt57rLtgpwFBqZq4QKxrD9Hhc_8L4&action_edit=1)
 
-Also check this [page](http://socialledge.com/sjsu/index.php/Basic_Git_Tutorial) 
+Also checkout this [page](http://socialledge.com/sjsu/index.php/Basic_Git_Tutorial) 
 
 ### Creating a repository online for the <b>1st time</b>!
 ``` sh
